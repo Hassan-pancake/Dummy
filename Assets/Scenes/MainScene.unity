@@ -480,7 +480,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9af8d086f0a05a478434ac3afc65d0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TrialScript
-  autoColor: 0
+  autoColor: 1
   autocolorTimeIntervels: 0.5
   cubeStaticColor: {r: 0, g: 0, b: 0, a: 0}
   rotationSpeed: 0
